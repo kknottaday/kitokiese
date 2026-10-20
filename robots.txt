@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/kknottaday/kitokiese.git/sitemap.xml
