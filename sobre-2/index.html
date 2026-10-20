@@ -9,4 +9,27 @@
                     this.classList.add('is-loaded');
                 }, false);
             }
-        }</script><a href="https://github.com/kknottaday/kitokiese/issues/1" target="_blank" rel="noopener noreferrer" style="display:inline-block;font-family:-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif;font-weight:600;line-height:1.25;text-align:center;text-decoration:none;white-space:nowrap;padding:5px 12px;font-size:12px;border-radius:6px;background:transparent;color:#0969da;border:1px solid #0969da;box-shadow:none">Inscribe te in mi Boletino.</a></body></html>
+        }</script><a href="https://github.com/kknottaday/kitokiese/issues/1" target="_blank" rel="noopener noreferrer" style="display:inline-block;font-family:-apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,sans-serif;font-weight:600;line-height:1.25;text-align:center;text-decoration:none;white-space:nowrap;padding:5px 12px;font-size:12px;border-radius:6px;background:transparent;color:#0969da;border:1px solid #0969da;box-shadow:none">Inscribe te in mi Boletino.</a><script>(function() {
+			var originalTitle = document.title;
+			var timeout;
+			document.addEventListener("visibilitychange", function() {
+				if (document.hidden) {
+					document.title = "👀 We miss you! Come back!";
+				} else {
+					clearTimeout(timeout);
+					document.title = "🎉 Welcome back!";
+							setTimeout(function() {
+								document.title = originalTitle;
+							}, 2000);
+				}
+			});
+		})();</script><script src="https://kknottaday.github.io/kitokiese/media/plugins/pagePrefetching/quicklink.umd.js"></script><script>window.addEventListener('load', () => {
+					quicklink.listen({
+						prerender: false,
+						el: document.querySelector('body'),
+						delay: 0,
+						limit: Infinity,
+						throttle: Infinity,
+						timeout: 2000
+					});
+				});</script></body></html>
