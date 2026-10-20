@@ -14,10 +14,10 @@
 			var timeout;
 			document.addEventListener("visibilitychange", function() {
 				if (document.hidden) {
-					document.title = "👀 We miss you! Come back!";
+					document.title = "Vou embora pois preciso";
 				} else {
 					clearTimeout(timeout);
-					document.title = "🎉 Welcome back!";
+					document.title = "Volto pois te amo";
 							setTimeout(function() {
 								document.title = originalTitle;
 							}, 2000);
@@ -25,7 +25,7 @@
 			});
 		})();</script><script src="https://kknottaday.github.io/kitokiese/media/plugins/pagePrefetching/quicklink.umd.js"></script><script>window.addEventListener('load', () => {
 					quicklink.listen({
-						prerender: false,
+						prerender: true,
 						el: document.querySelector('body'),
 						delay: 0,
 						limit: Infinity,
