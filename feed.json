@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "arcervokitokiese",
     "description": "",
-    "home_page_url": "https://github.com/kknottaday/kitokiese.git",
-    "feed_url": "https://github.com/kknottaday/kitokiese.git/feed.json",
+    "home_page_url": "https://kknottaday.github.io/kitokiese",
+    "feed_url": "https://kknottaday.github.io/kitokiese/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kito Kiese"
     },
     "items": [
         {
-            "id": "https://github.com/kknottaday/kitokiese.git/sobre/",
-            "url": "https://github.com/kknottaday/kitokiese.git/sobre/",
+            "id": "https://kknottaday.github.io/kitokiese/sobre/",
+            "url": "https://kknottaday.github.io/kitokiese/sobre/",
             "title": "Sobre",
             "summary": "Acervo digital descentralizado de Kito Kiese Rodrigues Nicácio",
-            "content_html": "<p>Acervo digital descentralizado de Kito Kiese Rodrigues Nicácio</p>\n<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://github.com/kknottaday/kitokiese.git/media/posts/1/Captura-de-Tela-2025-01-16-as-07.45.15.png\" alt=\"selfie retro\" width=\"986\" height=\"990\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://github.com/kknottaday/kitokiese.git/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-xs.png 640w ,https://github.com/kknottaday/kitokiese.git/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-sm.png 768w ,https://github.com/kknottaday/kitokiese.git/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-md.png 1024w ,https://github.com/kknottaday/kitokiese.git/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-lg.png 1366w ,https://github.com/kknottaday/kitokiese.git/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-xl.png 1600w ,https://github.com/kknottaday/kitokiese.git/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-2xl.png 1920w\"></figure>",
+            "content_html": "<p>Acervo digital descentralizado de Kito Kiese Rodrigues Nicácio</p>\n<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://kknottaday.github.io/kitokiese/media/posts/1/Captura-de-Tela-2025-01-16-as-07.45.15.png\" alt=\"selfie retro\" width=\"986\" height=\"990\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://kknottaday.github.io/kitokiese/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-xs.png 640w ,https://kknottaday.github.io/kitokiese/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-sm.png 768w ,https://kknottaday.github.io/kitokiese/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-md.png 1024w ,https://kknottaday.github.io/kitokiese/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-lg.png 1366w ,https://kknottaday.github.io/kitokiese/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-xl.png 1600w ,https://kknottaday.github.io/kitokiese/media/posts/1/responsive/Captura-de-Tela-2025-01-16-as-07.45.15-2xl.png 1920w\"></figure>",
             "author": {
                 "name": "Kito Kiese"
             },
